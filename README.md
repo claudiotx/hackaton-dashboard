@@ -1,3 +1,16 @@
+# Spreadsheet Evo
+
+## Project
+
+- There is a matrix of 8x8
+- Rows are 0 - 9
+- Columns are a - z
+- A cell can have basic numeric operations starting with `=`
+
+### Components
+
+### JumpStart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
